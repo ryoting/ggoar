@@ -11,8 +11,14 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://www.ggofootball.com/ggoar.ipa</string>
-               </dict> 
+                   <string>http://www.ggofootball.com/GGOAR.ipa</string>
+               </dict>
+               <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>url</key>
+                    <string>https://raw.githubusercontent.com/ryoting/ggoar/master/AppIcon40.png</string>
+               </dict>
            </array>
            <key>metadata</key>
            <dict>
